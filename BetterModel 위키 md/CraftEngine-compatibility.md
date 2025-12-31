@@ -1,0 +1,2 @@
+[CraftEngine](https://polymart.org/product/7624/craftengine) supports BetterModel for block, furniture, etc.  
+You can see [CraftEngine's wiki](https://xiao-momi.github.io/craft-engine-wiki/) to find more features.
